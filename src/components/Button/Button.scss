@@ -1,0 +1,16 @@
+.Button {
+    height: 32px;
+    font-weight: 500;
+    font-size: 13px;
+    color: #000;
+    background: #D8D8D8;
+    padding: 0 16px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    &--primary {
+        color: #FFF;
+        background: #256DE0;
+    }
+}
